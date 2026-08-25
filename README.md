@@ -1,9 +1,1 @@
 # laci-knowledge-base
-
-This independent repository stores Laci's reviewed personal knowledge for
-Jupiter.
-
-Approved knowledge files are versioned here. Private noisy text awaiting review
-belongs in the local `raw/` directory, which this repository ignores. Jupiter's
-indexer also excludes `raw/`; only knowledge that completes Jupiter's explicit
-review and approval workflow may be promoted into the versioned knowledge base.
