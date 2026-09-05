@@ -1,1 +1,3 @@
 /raw/
+/.neptune-write.lock
+/records/.neptune-*
